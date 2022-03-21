@@ -27,16 +27,19 @@
         android:maxLength="20" />
 
     <Button
+        android:id="@+id/Btnentrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Entrar" />
 
     <Button
+        android:id="@+id/btnsair"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sair" />
 
     <TextView
+        android:id="@+id/txtesqueceuasenha"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Esqueci a senha" />
